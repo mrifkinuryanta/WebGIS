@@ -1,0 +1,10 @@
+Tools:
+XAMPP
+Leaflet
+
+Link:
+https://leafletjs.com/download.html
+https://github.com/leaflet-extras/leaflet-providers
+https://jquery.com/download/
+https://github.com/davidmerfield/randomColor
+https://cdnjs.com/libraries/randomcolor

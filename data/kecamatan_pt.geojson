@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "kecamatan_pt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "name": "Kantor Kecamatan Batuceper" }, "geometry": { "type": "Point", "coordinates": [ 106.66297827889872, -6.162631507511922 ] } },
+{ "type": "Feature", "properties": { "id": 2, "name": "Kantor Kecamatan Benda" }, "geometry": { "type": "Point", "coordinates": [ 106.685776926090483, -6.132494587987598 ] } },
+{ "type": "Feature", "properties": { "id": 3, "name": "Kantor Kecamatan Cibodas" }, "geometry": { "type": "Point", "coordinates": [ 106.604353186120065, -6.205887071651303 ] } },
+{ "type": "Feature", "properties": { "id": 4, "name": "Kantor Kecamatan Ciledug" }, "geometry": { "type": "Point", "coordinates": [ 106.704567828478488, -6.225762122315182 ] } },
+{ "type": "Feature", "properties": { "id": 5, "name": "Kantor Kecamatan Cipondoh" }, "geometry": { "type": "Point", "coordinates": [ 106.676937814143287, -6.194560575190321 ] } },
+{ "type": "Feature", "properties": { "id": 6, "name": "Kantor Kecamatan Jatiuwung" }, "geometry": { "type": "Point", "coordinates": [ 106.589088768809404, -6.190689475113901 ] } },
+{ "type": "Feature", "properties": { "id": 7, "name": "Kantor Kecamatan Karang Tengah" }, "geometry": { "type": "Point", "coordinates": [ 106.70473225262846, -6.209514163286133 ] } },
+{ "type": "Feature", "properties": { "id": 8, "name": "Kantor Kecamatan Karawaci" }, "geometry": { "type": "Point", "coordinates": [ 106.612818402055296, -6.191071629873194 ] } },
+{ "type": "Feature", "properties": { "id": 9, "name": "Kantor Kecamatan Larangan" }, "geometry": { "type": "Point", "coordinates": [ 106.731645257542937, -6.227219415807877 ] } },
+{ "type": "Feature", "properties": { "id": 10, "name": "Kantor Kecamatan Neglasari" }, "geometry": { "type": "Point", "coordinates": [ 106.629946668461955, -6.156446456614034 ] } },
+{ "type": "Feature", "properties": { "id": 11, "name": "Kantor Kecamatan Periuk" }, "geometry": { "type": "Point", "coordinates": [ 106.59393027168818, -6.170140961151249 ] } },
+{ "type": "Feature", "properties": { "id": 12, "name": "Kantor Kecamatan Pinang" }, "geometry": { "type": "Point", "coordinates": [ 106.667422611114048, -6.212994849856018 ] } },
+{ "type": "Feature", "properties": { "id": 13, "name": "Kantor Kecamatan Tangerang" }, "geometry": { "type": "Point", "coordinates": [ 106.633177340228627, -6.172113300154495 ] } }
+]
+}
